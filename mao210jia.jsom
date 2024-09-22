@@ -134,22 +134,7 @@
         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/tgy.jar",
         "api": "https://gitee.com/rrzt188/home/raw/master/js/一起看.js"
     },  
-    {
-      "key": "轩蓓｜专线①🏅",
-      "name": "星辰｜黄金",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片类型": "黄金云",
-        "播放标题": ">&&<[不包含:1080P]",
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-      }
-    },
+    
      {
       "key": "摸鱼瓜子",
       "name": "🍉瓜子┃纯净",
@@ -163,36 +148,8 @@
        "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
     },
-    	{
-			"key": "hipy_js_即看影视",
-			"name": "🏅即看",
-			"type": 3,
-			"api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "http://47.99.102.252/drpy_js/即看影视.js"
-		},
-
-    {
-      "key": "🔱｜耀天线🏅",
-      "name": "🔱｜citytv🏅",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/dokilwss.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片类型": "涛哥云",
-        "线路数组": "data-dropdown-value=&&</div>[排序:🔱涛哥丨主线>🔱涛哥丨直连][不包含:百度云播]",
-        "线路标题": "<span>&&[替换:线路1>>🔱涛哥丨直连#线路2>>🔱涛哥丨主线#</span>]",
-        "播放标题": ">&&<[不包含:1080P]",
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-      }
-    },
+    	
+   
 {"key":"drpy_js_腾云驾雾","name":"🌺腾讯┃4K🌺","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/百忙无果.js"},
  {
