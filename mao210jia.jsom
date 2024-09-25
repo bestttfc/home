@@ -77,6 +77,41 @@
      "changeable": 1
 
   },
+       {
+      "key": "瓜子影视",
+      "name": "🍉瓜子影视┃2K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+     {
+      "key": "摸鱼瓜子",
+      "name": "🍉瓜子┃2K",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+    },
+    	
+     {
+      "key": "厂长资源",
+      "name": "🏭️厂长┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {
   "key": "天堂蓝光",
@@ -88,6 +123,43 @@
   "filterable": 1,
   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
   "ext": "https://gitee.com/rrzt188/home/raw/master/js/影院蓝光.json"
+},
+{
+      "key": "iysdq",
+      "name": "🧿影院蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
+      }
+},
+{
+  "key": "海纳TV",
+  "name": "🧿海纳蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/海纳TV.json"
+},
+
+{
+  "key": "csp_七新",
+  "name": "👼七新2K",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/七新影视1.json",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
 },
  {     "key":"4K",
           "name":"🔥4K4K影视🔥",
@@ -134,41 +206,7 @@
         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/tgy.jar",
         "api": "https://gitee.com/rrzt188/home/raw/master/js/一起看.js"
     },  
-     {
-      "key": "瓜子影视",
-      "name": "🍉瓜子影视┃2K",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     
-     {
-      "key": "摸鱼瓜子",
-      "name": "🍉瓜子┃2K",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-    	
-     {
-      "key": "厂长资源",
-      "name": "🏭️厂长┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_Czzy",
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {"key":"drpy_js_腾云驾雾","name":"🌺腾讯┃4K🌺","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/百忙无果.js"},
  {
