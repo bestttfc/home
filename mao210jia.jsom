@@ -134,10 +134,20 @@
         "jar":"https://gitee.com/rrzt188/home/raw/master/jar/tgy.jar",
         "api": "https://gitee.com/rrzt188/home/raw/master/js/一起看.js"
     },  
+     {
+      "key": "瓜子影视",
+      "name": "🍉瓜子影视┃2K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     
      {
       "key": "摸鱼瓜子",
-      "name": "🍉瓜子┃纯净",
+      "name": "🍉瓜子┃2K",
       "type": 3,
       "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
       "searchable": 1,
@@ -149,7 +159,16 @@
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
     },
     	
-   
+     {
+      "key": "厂长资源",
+      "name": "🏭️厂长┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"drpy_js_腾云驾雾","name":"🌺腾讯┃4K🌺","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/百忙无果.js"},
  {
