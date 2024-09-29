@@ -267,16 +267,26 @@
       "filterable": 1,
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/js/搜狗视频.js"
     },
+ 
+
 {
       "key": "Wexkoukou",
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726712391277/wex.txt",
+       "jar":"https://9554.kstore.space/wex.txt",
       "searchable": 1,
       "changeable": 1
     },
-    
+  {
+      "key": "Wexkoukou2",
+      "name": "🌺扣扣┃4K2🌺",
+      "type": 3,
+      "api": "csp_Wexkoukou2",
+        "jar":"https://9554.kstore.space/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },   
 {
       "key": "Wexjiazitv",
       "name": "🌺甲子┃4K🌺",
@@ -289,7 +299,30 @@
       "changeable": 1
     },
 
-
+  {
+      "key": "君君",
+      "name": "🚗君君",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
+ {
+      "key": "sd",
+      "name": "🏅闪电",
+      "type": 3,
+      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://git.acwing.com/lwm212/XYTV/-/raw/main/drpy_js/shandian.js"
+    },
    
 {"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
@@ -2320,7 +2353,36 @@
         ]
       }
     },
- 
+   {
+      "name": "4K解析",
+      "type": 1,
+      "url": "http://112.74.124.75:8899/jiexi/api.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {      "name": "亮亮🌾",      "type": 1,      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",      "ext": {        "flag": [
           "seven"        ],        "header": {          "User-Agent": "Lavf/58.12.100"        }      }    },
