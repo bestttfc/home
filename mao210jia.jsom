@@ -301,11 +301,11 @@
 
   {
       "key": "君君",
-      "name": "🚗君君",
+      "name": "🏅君君",
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/ou.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -323,7 +323,101 @@
       "changeable": 0,
       "ext": "https://git.acwing.com/lwm212/XYTV/-/raw/main/drpy_js/shandian.js"
     },
-   
+ {
+      "key": "魔都",
+      "name": "🌼魔都",
+      "type": 1,
+      "api": "https://moduzy1.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://jiexi.modujx01.com/?url=",
+      "categories": [
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+{
+      "key": "优质",
+      "name": "🌼影库1080",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://vip.zykbf.com/?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },  
+{
+      "key": "csp_XYQHiker_奇趣影院",
+      "name": "🌼奇趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/rrzt188/home/raw/master/js/奇趣影视.json",
+      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/xyq723.jar"
+    },
+{
+            "key": "爱上电影",
+            "name": "🔥爱影┃Web",
+            "type": 3,
+            "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": "2",
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://gitee.com/rrzt188/home/raw/master/js/爱上电影.js"
+        },
+
 {"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
       "key": "zztong",
@@ -2382,7 +2476,66 @@
         }
       }
     },
-
+{
+			"name": "4K解析2",
+			"type": 1,
+			"url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+ {
+            "name": "QD专线",
+            "type": "1",
+            "url": "https://json.o0a.cn/api/?key=4d3de1fb4708d88282125859639cfe96&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+ {"name": "AI1","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["nmys","nmys2","BBA"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+    {"name": "AI2","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["nmys","nmys2","BBA"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {      "name": "亮亮🌾",      "type": 1,      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",      "ext": {        "flag": [
           "seven"        ],        "header": {          "User-Agent": "Lavf/58.12.100"        }      }    },
