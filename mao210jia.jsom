@@ -225,6 +225,29 @@
   "ext": "https://gitee.com/rrzt188/home/raw/master/js/七新影视1.json",
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
 },
+{
+  "key":"视频库",
+  "name":"💡视视影视",
+  "type":3,
+  "api":"csp_WebVidHub",
+  "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"https://vidhub1.cc"
+},	  
+{
+  "key": "hipy_js_4k剧院",
+  "name": "🏅小橙子4k",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20240912.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 6,
+  "ext": "http://ttkx.live:55/lib/4k剧院.js"
+},	  
  {     "key":"4K",
           "name":"🔥4K4K影视🔥",
            "type":3,"api":"csp_XBPQ",
