@@ -87,7 +87,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   //瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": //"https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php", "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib3/drpy.min.js",
+   //瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": 
+   
+   //"https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php", "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib3/drpy.min.js",
      {
       "key": "摸鱼瓜子",
       "name": "🍉瓜子┃2K",
@@ -98,9 +100,10 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-       "jar": "https://gitee.com/wzbdyr/xcz/raw/master/xcz.jar",
+       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
       "ext": "https://gitee.com/rrzt188/home/raw/master/js/guazi.js"
     },
+
     {"key":"豪华资源","name":"🛫豪华原生┃无广","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"recordable":1,"quickSearch":1,"filterable":1,
             "categories": [
                 "国产动漫",
