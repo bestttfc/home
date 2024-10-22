@@ -169,16 +169,8 @@
                 "网球",
                 "斯诺克"
             ]},	
-     {
-      "key": "厂长资源",
-      "name": "🏭️厂长┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_Czzy",
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key": "厂长","name": "📔┃厂长┃不卡","type": 3,"api": "csp_NewCz","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy77.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240919.jar" },
+    
 {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
 {
   "key": "天堂蓝光",
@@ -359,38 +351,42 @@
       "filterable": 1,
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/js/搜狗视频.js"
     },
- 
-
 {
       "key": "Wexkoukou",
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-       "jar":"https://9554.kstore.space/wex.txt",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
       "searchable": 1,
       "changeable": 1
     },
-  {
+    {
       "key": "Wexkoukou2",
       "name": "🌺扣扣┃4K2🌺",
       "type": 3,
       "api": "csp_Wexkoukou2",
-        "jar":"https://9554.kstore.space/wex.txt",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
       "searchable": 1,
       "changeable": 1
-    },   
-{
+    },
+  {
       "key": "Wexjiazitv",
       "name": "🌺甲子┃4K🌺",
       "type": 3,
       "api": "csp_Wexjiazitv",
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726712391277/wex.txt",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
       "changeable": 1
     },
-
+  {
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_Wexshandian",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
   {
       "key": "君君",
       "name": "🏅君君",
@@ -405,19 +401,7 @@
     },
    
     //http://xn--ihqu10cn4c.xn--v4q818bf34b.top/json/js/drpy.min.js
- {
-      "key": "sd",
-      "name": "🏅闪电",
-      "type": 3,
-      "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib2/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/rrzt188/home/raw/master/js/shandian.js"
-    },
-    //https://git.acwing.com/lwm212/XYTV/-/raw/main/drpy_js/shandian.js
+ 
  {
       "key": "魔都",
       "name": "🌼魔都",
@@ -513,7 +497,46 @@
             "order_num": 0,
             "ext": "https://gitee.com/rrzt188/home/raw/master/js/爱上电影.js"
         },
+  {
+      "key": "欢视",
+      "name": "👓欢视┃多线┃纯净",
+      "type": 3,
+      "api": "csp_AppTT",
+       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
 
+{
+      "key": "Wexdyxs",
+      "name": "🎇先生┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexdyxs",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
+     {
+      "key": "F4kvm",
+      "name": "🎇纯享┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexF4kvm",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
+      {
+      "key": "Diduanys",
+      "name": "🎇深渊┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexDiduanys",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
 {"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
       "key": "zztong",
