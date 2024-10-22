@@ -79,10 +79,10 @@
   },
        {
       "key": "瓜子影视",
-      "name": "🍉瓜子影视┃2K",
+      "name": "🍉瓜子┃蓝光┃纯净",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240925.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -94,7 +94,7 @@
       "key": "摸鱼瓜子",
       "name": "🍉瓜子┃2K",
       "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -303,8 +303,8 @@
       "key": "醉挽清风",
       "name": "🌺清风┃4K🌺",
       "type": 3,
-      "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib3/drpy.min.js",
-       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php",
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2472,7 +2472,7 @@
  {
       "name": "zhuimi-super",
       "type": 1,
-      "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
+      "url": "http://103.38.82.59:9527/zhuimi666.php?url=",
       "ext": {
         "flag": [ "qq", "腾讯",  "qiyi","爱奇艺","奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "rx", "ltnb", "bilibili",
           "1905",  "xigua"
