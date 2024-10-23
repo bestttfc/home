@@ -169,6 +169,50 @@
                 "网球",
                 "斯诺克"
             ]},	
+{
+      "key": "花姐影院",
+      "name": "🍹可欣影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "fed-lazy&&</a>",
+        "副标题": "fed-text-center\">&&</span",
+        "简介": "fed-matp-v\">&&</div",
+        "线路数组": "href=\"\\#playlist&&</li>",
+        "线路标题": "</i>&&</a>",
+        "播放数组": "<ul class=\"myui-content__list&&</ul",
+        "跳转播放链接": "var now=\"&&\"",
+        "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+        "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+        "分类": "电视剧&电影&综艺&动漫",
+        "分类值": "2&1&3&4"
+      }
+},
+{
+  "key": "煤球",
+  "name": "🍓煤球多线",
+  "type": 3,
+  "api": "csp_Appmq",
+  "jar": "https://gitee.com/rrzt188/home/raw/master/jar/fan241023.txt",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},	  
+{
+  "key": "影咖影视",
+  "name": "💡影咖影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+    "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/影咖.json"
+},
 {"key": "厂长","name": "📔┃厂长┃不卡","type": 3,"api": "csp_NewCz","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy77.com/","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240919.jar" },
     
 {"key":"量子","name":"量子┃采集","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/fan2.txt"},
@@ -208,7 +252,40 @@
   "filterable": 1,
   "ext": "https://gitee.com/rrzt188/home/raw/master/js/海纳TV.json"
 },
-
+{
+      "key": "影视工厂",
+      "name": "🧿工厂蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
+        "分类url": "https://www.ysgctv.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+},
+{
+  "key": "影馆",
+  "name": "🐖野猪蓝光",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "ext": "https://4kdyg.top/api.php/v1.vod"
+},
+{
+  "key": "csp_五月",
+  "name": "🍊蓝光五月",
+  "type": 3,
+  "api": "csp_XBPQ",
+    "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/五月影视.js"
+},
 {
   "key": "csp_七新",
   "name": "👼七新2K",
