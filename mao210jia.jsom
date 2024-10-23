@@ -537,6 +537,15 @@
       "searchable": 1,
       "changeable": 1
     },
+ {
+      "key": "哔嘀影视",
+      "name": "🎇喇叭┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBDys",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+      "searchable": 1,
+      "changeable": 1
+    },
 {"key":"jy","name":"金鹰┃采集","type":1,"api":"https://jinyingzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1,"recordable":1,"filterable":1},
 {
       "key": "zztong",
@@ -565,6 +574,26 @@
   "changeable":1,
   "ext":"https://v.aikanbot.com"
 },
+ {
+        "key": "csp_XBPQ_蛙蛙",
+        "name": "🎥｜蛙蛙",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "主页url": "https://www.wvod.tv/",
+          "数组": "hl-col-lg-2\"&&</a>",
+          "图片": "data-original=\"&&\"",
+          "标题": "title=\"&&\"",
+          "链接": "href=\"&&\"",
+          "简介": "简介：&&</li>",
+          "分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+          "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"
+        }
+      },
 
 {
       "key": "大象影视",
