@@ -77,7 +77,7 @@
      "changeable": 1
 
   },
-  {"key":"瓜子影视1","name":"💡瓜子｜4K","type":3,"api":"csp_Gz360", "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"瓜子影视1","name":"💡瓜子｜4K","type":3,"api":"csp_Gz360", "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1, "order_num": 0, "changeable": 0,"filterable":1},
        {
       "key": "瓜子影视",
       "name": "🍉瓜子┃4K",
@@ -86,6 +86,8 @@
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,
+       "order_num": 0,
+      "changeable": 0,
       "filterable": 1
     },
    //瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": 
@@ -174,6 +176,55 @@
       "searchable": 1,
       "changeable": 1
     },
+{"key":"drpy_js_腾云驾雾","name":"🌺腾讯┃4K🌺","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/百忙无果.js"},
+ {
+      "key": "醉挽清风",
+      "name": "🌺清风┃4K🌺",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/rrzt188/home/raw/master/js/qingfeng.js"
+    },
+    //https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js  清风
+    // // "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",  清风
+{
+      "key": "drpy_芒果TV",
+      "name": "🌺芒果┃4K🌺",
+      "type": 3,
+      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile20240919.jar",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/cpu170/bf/main/n/g/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/rrzt188/home/raw/master/js1/芒果TV.js"
+    },
+ //   {
+  //"key": "hipy_js_4K-AV",
+ // "name": "🌺小橙子┃4K🌺",
+ // "type": 3,
+ // "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib1/drpy2.min.js",
+ // "searchable": 1,
+  //"quickSearch": 1,
+ // "filterable": 1,
+  //"order_num": 0,
+ // "ext": "https://gitee.com/rrzt188/home/raw/master/js/4K-AV.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz240921.jar"
+//},
+    {
+  "key": "hipy_js_4K-AV",
+  "name": "🌺小橙子┃4K🌺",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_dzlive/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_dzlive/drpy_js/4K-AV.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz240921.jar"
+},
 {
   "key": "csp_五月",
   "name": "🍊蓝光五月",
@@ -633,55 +684,7 @@
         "api": "https://gitee.com/rrzt188/home/raw/master/js/一起看.js"
     },  
     
-{"key":"drpy_js_腾云驾雾","name":"🌺腾讯┃4K🌺","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1, "api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/百忙无果.js"},
- {
-      "key": "醉挽清风",
-      "name": "🌺清风┃4K🌺",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/rrzt188/home/raw/master/js/qingfeng.js"
-    },
-    //https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js  清风
-    // // "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",  清风
-{
-      "key": "drpy_芒果TV",
-      "name": "🌺芒果┃4K🌺",
-      "type": 3,
-      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/Yoursmile20240919.jar",
-      "api": "https://ghp.ci/https://raw.githubusercontent.com/cpu170/bf/main/n/g/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/rrzt188/home/raw/master/js1/芒果TV.js"
-    },
- //   {
-  //"key": "hipy_js_4K-AV",
- // "name": "🌺小橙子┃4K🌺",
- // "type": 3,
- // "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib1/drpy2.min.js",
- // "searchable": 1,
-  //"quickSearch": 1,
- // "filterable": 1,
-  //"order_num": 0,
- // "ext": "https://gitee.com/rrzt188/home/raw/master/js/4K-AV.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz240921.jar"
-//},
-    {
-  "key": "hipy_js_4K-AV",
-  "name": "🌺小橙子┃4K🌺",
-  "type": 3,
-  "api": "http://47.99.102.252/drpy_dzlive/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://47.99.102.252/drpy_dzlive/drpy_js/4K-AV.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz240921.jar"
-},
+
     {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/360影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240919.jar"},
 
 
