@@ -276,6 +276,57 @@
   "ext": "https://4kdyg.top/api.php/v1.vod"
 },
 {
+  "key": "csp_cally",
+  "name": "🍊小橙子采集",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/小橙子采集.json"
+},
+{
+  "key": "三米ys",
+  "name": "🍊三米影视",
+  "ua": "okhttp/3.15",
+  "type": 3,
+  "api": "csp_XBPQ",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "ext": {
+                "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+                "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+            }
+}, 
+{
+            "key": "qimaoys",
+            "name": "🐈七猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+            "ext": {
+                "主页url": "http://www.qimaoym.com",
+                "数组":"class=\"module-item-cover\">&&class=\"module-item\">",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-text\">&&</div>",
+                "链接":"href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "module-tab-item tab-item\"&&</div>",
+                 "线路标题": "<span>&&</small>[替换:</span><small>>>🍊]+集",
+                 "播放数组":"class=\"module-blocklist\">&&</div",
+                 "播放列表":"<a&&</a",
+                 "播放标题":"<span&&</span",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+                "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+        }
+},	  
+
+{
   "key": "csp_五月",
   "name": "🍊蓝光五月",
   "type": 3,
@@ -285,6 +336,154 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://gitee.com/rrzt188/home/raw/master/js/五月影视.js"
+},
+{
+  "key":"csp_mgtva",
+  "name":"🥑木瓜影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "ext":{"副标题":"小橙子在线",
+	  "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+	  "分类":"电影&电视剧&综艺&动漫",
+	  "分类值": "dianying&lianxuju&zongyi&dongman"
+        }
+},
+{
+      "key": "88ys",
+      "name": "🌟影视大全",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "图片": "data-original=\"&&\"[不包含:/img.php?url=]",
+        "搜索url": "https://www.88tvs.cn/vodsearch/-------------.html?wd={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<div class=\"thumb\"&&</li>",
+        "简介": "小橙子提醒您，请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content\"&&</div>",
+        "分类url": "https://www.88tvs.cn/vodshow/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+},
+{
+    "key":"zp",
+    "name":"🍊臻品影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://gitee.com/rrzt188/home/raw/master/js/臻品影视.json"
+},
+
+{
+  "key": "好影快看",
+  "name": "🧿好影蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/好影快看.json"
+},
+{
+      "key": "爱优影视",
+      "name": "🧿爱优蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "小橙子提醒您,请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+        "分类url": "https://www.iuys.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$2#电视剧$1#动漫$3#综艺$4"
+      }
+},
+{
+  "key": "策驰蓝光",
+  "name": "🧿策驰蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/策驰影视.json"
+},
+{
+  "key": "NRTFIY星球",
+  "name": "⚡NETFIYAPP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.netfly.tv/api.php/app/"
+},
+{
+  "key": "河狸影视",
+  "name": "⚡河狸APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.heli888.cc/api.php/app/"
+},
+{
+  "key": "千梦影视",
+  "name": "⚡千梦APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+   "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.qmjzys.com/api.php/app/"
+},
+{
+  "key": "csp_觅知",
+  "name": "🍊觅知影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/觅知影视.json"
+},
+{
+      "key": "影视大全",
+      "name": "🌞影视大全蓝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"
+      }
+},
+{
+  "key": "fxzyz",
+  "name": "🍊分享驿站",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/xcz.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/电影驿站.json?ref=master"
 },
 {
   "key": "csp_七新",
