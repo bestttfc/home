@@ -318,7 +318,7 @@
       "name": "🎇哔嘀影视",
       "type": 3,
       "api": "csp_WexBDys",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769329118/wex.txt;md5;32fe8b5c7d65837dd1d040fc026c1746",
       "searchable": 1,
       "changeable": 1
     },
@@ -333,6 +333,7 @@
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/111tv[自动].js"
 },
+
 {
   "key":"机器人",
   "name":"💡机器影视",
@@ -344,6 +345,42 @@
   "changeable":1,
   "ext":"https://v.aikanbot.com"
 },
+{
+      "key": "优质",
+      "name": "🌼影库1080",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playurl": "https://vip.zykbf.com/?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },  
     {"key":"豪华资源","name":"🛫豪华原生┃无广","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"recordable":1,"quickSearch":1,"filterable":1,
             "categories": [
                 "国产动漫",
@@ -670,31 +707,28 @@
             "searchable":1,"quickSearch":1,"filterable":1,
             "ext":{"分类url": "https://www.xgitv.com/vshow/{cateId}--------{catePg}---.html",
              "分类": "电影$dianying#剧集$dianshiju#综艺$zongyi#动漫$dongman"}},
-{
-  "key": "一起看弹幕",
-  "name": "🫘一起看蓝光弹幕",
-  "type": 3,
-  "api": "csp_Yqk",
-  "jar": "https://gitee.com/rrzt188/home/raw/master/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
-},
  {
-        "key": "永恒_yqk",
-        "name": "一起看丨4k",
-        "type": 3,
-         "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-      "changeable": 1,
-        "jar":"https://gitee.com/rrzt188/home/raw/master/jar/tgy.jar",
-        "api": "https://gitee.com/rrzt188/home/raw/master/js/一起看.js"
-    },  
-    
+            "key": " 一起看影院",
+            "name": "🔥一起看影院🔥",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+		    "jar":"https://gitee.com/rrzt188/home/raw/master/jar/XBPQWG240508.jar",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "#playlist*\">&&</a>",
+                "线路标题": "✨PYLB专享接口✨+>&&<[替换:*集>>线路]",
+                "播放数组": "class=\"playlistlink&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": "title=\"&&\"",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "varurlDecode(var player*url\":\"&&\")",
+                "分类url": "http://www.lxsgsy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
+                "分类": "电影&电视剧&综艺&动漫&短剧",
+                "分类值": "1&2&3&4&30"
+            }
+        },
 
     {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/js1/360影视.js","jar":"https://gitee.com/rrzt188/home/raw/master/jar/fty240919.jar"},
 
@@ -749,42 +783,7 @@
         "欧美综艺"
       ]
     },
-{
-      "key": "优质",
-      "name": "🌼影库1080",
-      "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playurl": "https://vip.zykbf.com/?url=",
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },  
+
 {
       "key": "csp_XYQHiker_奇趣影院",
       "name": "🌼奇趣",
@@ -797,18 +796,7 @@
       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/xyq723.jar"
     },
     // "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",  爱影
-{
-            "key": "爱上电影",
-            "name": "🔥爱影┃Web",
-            "type": 3,
-           "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": "2",
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://gitee.com/rrzt188/home/raw/master/js/爱上电影.js"
-        },
+
   {
       "key": "欢视",
       "name": "👓欢视┃多线┃纯净",
@@ -827,7 +815,7 @@
       "name": "🎇先生┃秒播🎇",
       "type": 3,
       "api": "csp_Wexdyxs",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769329118/wex.txt;md5;32fe8b5c7d65837dd1d040fc026c1746",
       "searchable": 1,
       "changeable": 1
     },
@@ -836,7 +824,7 @@
       "name": "🎇纯享┃秒播🎇",
       "type": 3,
       "api": "csp_WexF4kvm",
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728540390403/wex.txt",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769329118/wex.txt;md5;32fe8b5c7d65837dd1d040fc026c1746",
       "searchable": 1,
       "changeable": 1
     },
