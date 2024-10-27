@@ -16,10 +16,7 @@ url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xzqcsa/ysc/a7a
 name:"旺强影视无广2",
 url:"https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/电视.json"
 },
- {
-name:"wxbtt",
-url:"https://gitee.com/wxbtt/box/raw/master/box.json"
-},
+ 
  {
 name:"小白",
 url:"http://bp.tvbox.cam/"
@@ -38,7 +35,7 @@ name:"小橙子专线2",
 url:"https://ghp.ci/https://raw.githubusercontent.com/wzxxcz/xcz/master/xcz.json"
 },
  {
-   "name": "玉玉线路🍊小橙子仓库",
+   "name": "玉玉-星辰线路🍊小橙子仓库",
    "url": "https://fmbox.cc"
   },
   {
@@ -76,7 +73,7 @@ url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cpu170/bf/main
 },   
  {
 name:"PG-ONE",
-url:"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
+url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json"
 },
  {
 name:"PizazzGY",
@@ -103,7 +100,7 @@ url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
 },
 {
 name:"高天流云",
-url:"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
 },
 {
 name:"gao0826-饭太硬",
@@ -148,10 +145,7 @@ name:"🚀运输车"
 url:"http://rihou.cc:88/荷城茶秀",
 name:"🚀荷城茶秀"
 },
-{
-url:"https://6758.kstore.space/1.json",
-name:"青龙"
-},
+
 {
 url:"https://download.kstore.space/download/2883/nzk/nzk0722.json",
 name:"大佬"
@@ -161,14 +155,14 @@ url:"https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
 name:"无意云"
 },
 {
-url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+url:"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
 name:"二哈"
 },
 
 
 
 {
-url:"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+url:"https://ghp.ci/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
 name:"香雅情"
 },
 
