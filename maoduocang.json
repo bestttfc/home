@@ -20,6 +20,10 @@ url:"https://ghp.ci/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/�
 name:"wxbtt",
 url:"https://gitee.com/wxbtt/box/raw/master/box.json"
 },
+ {
+name:"wxbtt",
+url:"http://bp.tvbox.cam/"
+},
 
   {
 name:"讴歌专线",
@@ -71,8 +75,8 @@ url:"https://ghp.ci/https://raw.githubusercontent.com/jak0099/dr/master/dr2.json
 url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/cpu170/bf/main/n/g/api.json"
 },   
  {
-name:"PG",
-url:"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aaaafeng123/PG/main/jsm.json"
+name:"PG-ONE",
+url:"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
 },
  {
 name:"PizazzGY",
@@ -98,12 +102,12 @@ name:"gao0821饭太硬优化",
 url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0821.json"
 },
 {
-name:"gao0825-PG",
-url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0825.json"
+name:"高天流云",
+url:"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
 },
 {
 name:"gao0826-饭太硬",
-url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@ce6d138b9fea88d348ef4650199e6d09d8f6845e/0826.json#L6"
+url:"http://xn--sss604efuw.com/tv"
 },
 {
 name:"gao0826-JS道长",
@@ -121,10 +125,19 @@ url:"https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@04c1ea06e8e7923e65fc7f3f3007e
 			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
 			"name": "👑夜猫少儿👑"
 		},
-				
+			
+    {
+url:"https://tv.xn--yhqu5zs87a.top",
+name:"🚀莱尼丝线路"
+},	
+	
+    {
+url:"https://100km.top/0",
+name:"🚀骚零线路"
+},	
 	
 {
-url:"http://www.mpanso.com/小米/DEMO.json",
+url:"https://3450.kstore.space/DEMO.json",
 name:"🚀小米线路"
 },
 {
@@ -170,7 +183,7 @@ name:"Ray"
 },
 
 {
-url:"http://pandown.pro/tvbox/tvbox.json",
+url:"http://cdn.qiaoji8.com/tvbox.json",
 name:"🚀巧记线路"
 },
 
@@ -194,10 +207,16 @@ name:"🚀老刘备线路"
             "url": "http://ok321.top/ok",
             "name": "💛OK哥💛"
         },
+        
         {
             "url": "http://live.nctv.top/X.json",
             "name": "💛阿剑💛"
         },
+                {
+            "url": "https://api-lmteam.koyeb.app/files/py.json",
+            "name": "💛霜辉月明💛"
+        },
+             
                 {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/759b45c28e43473ccc391c29e2473312eeae9151/xcz.json#L2940",
             "name": "💛采集之王💛"
