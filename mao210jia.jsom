@@ -90,7 +90,7 @@
       "changeable": 0,
       "filterable": 1
     },
-   //瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": 
+   // "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": 
    
    //"https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php", "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib3/drpy.min.js",
      {
@@ -110,7 +110,7 @@
 			"key": "GUAZI",
 			"name": "🥁瓜子┃1080",
 			"type": 3,
-             "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611",
+             "jar":"https://gitee.com/rrzt188/home/raw/master/jar/1016.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"api": "csp_Gz360"
@@ -142,7 +142,7 @@
 			"key": "csp_subaobai",
 			"name": "✍️白白┃1080P",
 			"type": 3,
-             "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611",
+             "jar":"https://gitee.com/rrzt188/home/raw/master/jar/1016.jar",
 			"searchable": 1,
 			"changeable": 1,
 			"api": "csp_SuBaiBai",
@@ -155,7 +155,7 @@
 			"name": "🪖厂长┃1080P",
 			"type": 3,
 			"api": "csp_Czsapp",
-               "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611",
+               "jar":"https://gitee.com/rrzt188/home/raw/master/jar/1016.jar",
 			"playerType": 2,
 			"ext": "https://www.czzy.site/"
 		},
@@ -398,7 +398,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/111tv[自动].js"
+  "ext": "https://gitee.com/rrzt188/home/raw/master/js/111tv.js"
 },
   
 {
