@@ -77,12 +77,11 @@
      "changeable": 1
 
   },
-  {"key":"瓜子影视1","name":"💡瓜子｜4K","type":3,"api":"csp_Gz360", "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1, "order_num": 0, "changeable": 0,"filterable":1},
-       {
+   {
       "key": "瓜子影视",
-      "name": "🍉瓜子┃4K",
+      "name": "🥥瓜子┃蓝光┃纯净",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_AppGZ",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,
@@ -90,7 +89,43 @@
       "changeable": 0,
       "filterable": 1
     },
-   // "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": 
+
+  {
+      "key": "凡人影视",
+      "name": "🤡凡人┃蓝光┃弹幕",
+      "type": 3,
+      "api": "csp_AppFr",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+      {
+      "key": "真心影视",
+      "name": "❤️真心┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+  {"key":"瓜子影视1","name":"💡瓜子｜4K","type":3,"api":"csp_Gz360", "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540","searchable":1,"quickSearch":1, "order_num": 0, "changeable": 0,"filterable":1},
+     //  {
+   //   "key": "瓜子影视",
+    //  "name": "🍉瓜子┃4K",
+   //   "type": 3,
+   //   "api": "csp_Gz360",
+   //   "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+   //   "searchable": 1,
+   //   "quickSearch": 1,
+   //    "order_num": 0,
+  //    "changeable": 0,
+  //    "filterable": 1
+ //   },
+   // "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",瓜子 http://我不是.摸鱼儿.top/json/js/drpy.min.js；"ext": //"https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"；  "jar": 
    
    //"https://gitee.com/rrzt188/home/raw/master/jar/moyu240917.php", "api": "https://gitee.com/rrzt188/home/raw/master/lib/lib3/drpy.min.js",
      {
