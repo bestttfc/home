@@ -53,7 +53,35 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{
+      "key": "星辰xBPQ",
+      "name": "星辰┃1080",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "jar": "https://gitee.com/rrzt188/home/raw/master/jar/xingcheng241027.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
+        "简介": "友情提醒🔺勿信广告，避免受骗🔺+class=\"detail-sketch\">&&</span>",
+        "线路数组": "#playlist&&</li>",
+        "线路标题": "软件库💠+>&&</a>[排序:神马云播>阿里云播>]",
+        "播放标题": ">&&<[不包含:1080P]"
+      }
+    },
+    {
+    "key":"zp",
+    "name":"🍊臻品影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://gitee.com/rrzt188/home/raw/master/js/臻品影视.json"
+},
     {
       "key": "文采",
       "name": "♨️文采┃蓝光┃纯净",
@@ -212,24 +240,7 @@
       }
     },
  
-{
-      "key": "星辰xBPQ",
-      "name": "星辰┃1080",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "jar": "https://gitee.com/rrzt188/home/raw/master/jar/xingcheng241027.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi#短剧$duanju",
-        "简介": "友情提醒🔺勿信广告，避免受骗🔺+class=\"detail-sketch\">&&</span>",
-        "线路数组": "#playlist&&</li>",
-        "线路标题": "软件库💠+>&&</a>[排序:神马云播>阿里云播>]",
-        "播放标题": ">&&<[不包含:1080P]"
-      }
-    },
+
 
 {
       "key": "drpy_搜狗视频",
@@ -361,17 +372,7 @@
         "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju"
       }
 },
-{
-    "key":"zp",
-    "name":"🍊臻品影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://gitee.com/rrzt188/home/raw/master/js/臻品影视.json"
-},
+
 {
   "key": "NRTFIY星球",
   "name": "⚡NETFIYAPP",
