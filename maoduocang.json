@@ -227,6 +227,11 @@ name:"🚀老刘备线路"
             "url": "https://11325.kstore.space/ls/home.json",
             "name": "HOME188"
         }
+        ,
+         {
+            "url": "https://gitee.com/zhouxx2023/zhouxx/raw/master/zhou.json",
+            "name": "zhou"
+        }
 
 ]
 }
