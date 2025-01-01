@@ -13,11 +13,11 @@
 "lives":[
 {
       "name": "home",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/zhibo/listyouxuan.txt",
+      "url": "https://cdn.jsdelivr.net/gh/rrzt/home@master/zhibo/listyouxuan.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       
     }    
@@ -228,24 +228,6 @@
 			"ext": "https://www.czzy.site/"
 		},
 
-{
-      "key": "xbpq_鲨鱼",
-      "name": "鲨鱼┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-       "jar": "https://gitee.com/rrzt188/home/raw/master/jar/xingcheng241027.jar",
-        "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "class=\"detail-sketch\"&&<br",
-        "分类url": "https://www.sdkuaiji.org/shayuyy/{cateId}/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongmna",
-        "类型": "动作片$dongzhuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu||大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju||大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy||国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"
-      }
-    },
- 
-
 
 {
       "key": "drpy_搜狗视频",
@@ -263,7 +245,7 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732460733293/wex.txt;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
       "searchable": 1,
        "quickSearch": 1,
       "changeable": 1
@@ -275,7 +257,7 @@
       "name": "🌺闪电┃秒播🌺",
       "type": 3,
       "api": "csp_Wexshandian",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732460733293/wex.txt;md5;eecfb80a60deb3fc48e1cfc20c2cfb4c",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731848960931/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
       "searchable": 1,
        "quickSearch": 1,
       "changeable": 1
