@@ -62,7 +62,7 @@ if (/\.m3u8$/.test(input)) {
      cate_exclude: '会员|游戏|全部',
      // class_name: '精选&电视剧&电影&综艺&动漫&少儿&纪录片',
      // class_url: 'choice&tv&movie&variety&cartoon&child&doco',
-     class_name: '魅力人推荐&魅力人电影&魅力人电视剧&魅力人综艺&魅力人动漫&魅力人少儿&魅力人纪录片',
+     class_name: '推荐&电影4K&电视剧4K&综艺&动漫&少儿&纪录片',
      class_url: 'choice&movie&tv&variety&cartoon&child&doco',
      limit: 20,
      play_parse:true,
