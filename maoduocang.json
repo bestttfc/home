@@ -114,10 +114,6 @@ url:"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jsm.json"
 name:"道长线路",
 url:"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
 },
-
-
-
- {url:"https://jihulab.com/wanda/4k/-/raw/main/m.json?ref_type=heads",name:"万达"},
 	
 		{
 			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
@@ -129,35 +125,21 @@ url:"https://tv.xn--yhqu5zs87a.top",
 name:"🚀莱尼丝线路"
 },	
 	
-    {
-url:"https://100km.top/0",
-name:"🚀骚零线路"
-},	
-	
-{
-url:"https://mpanso.me/DEMO.json",
-name:"🚀小米线路"
-},
+ 
 {
 url:"https://weixine.net/ysc.json",
 name:"🚀运输车"
 },
-{
-url:"http://rihou.cc:88/荷城茶秀",
-name:"🚀荷城茶秀"
-},
-
-
 
 {
-url:"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json",
+url:"https://gh-proxy.com/https://github.com/2hacc/TVBox/blob/main/oktv.json",
 name:"二哈"
 },
 
 
 
 {
-url:"https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json",
+url:"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json",
 name:"香雅情"
 },
 
