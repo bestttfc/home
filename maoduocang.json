@@ -42,6 +42,10 @@ url:"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/master/xc
 name:"小橙子专线WKX",
 url:"https://gh-proxy.com/https://github.com/wzxxcz/xcz/blob/master/wkx.json"
 },
+   {
+name:"小橙子专线wzxxcz",
+url:" https://gh-proxy.com/https://github.com/wzxxcz/wzxxcz/blob/maing/xczwzx.json"
+},
  {
 name:"潇洒",
 url:"https://盒子迷.top/潇洒"
@@ -51,10 +55,7 @@ name:"4KAV-魅力人",
 url:"https://gh-proxy.com/https://github.com/T00700/miao/blob/main/TVBox/tvbox.json"
 },
 
- {
-name:"miao/TVBox",
-url:"https://gh-proxy.com/https://github.com/T00700/miao/blob/main/TVBox/tvbox.json"
-},
+
 {
 name:"miao/TVBox原版",
 url:"https://gh-proxy.com/https://github.com/tuji-2015/miao/blob/main/TVBox/tvbox.json"
