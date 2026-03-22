@@ -129,10 +129,12 @@ url:"https://盒子迷.top/潇洒"
 {
 name:"LIUJEI-SVIP",
 url:"https://gh-proxy.org/https://github.com/LIUJEI/TB/blob/master/Svip.json"
-},{
+},
+{
 name:"LIUJEI-影视",
 url:"https://gh-proxy.org/https://github.com/LIUJEI/TB/blob/master/影视.json"
-},{
+},
+{
 name:"LIUJEI-魔盒",
 url:"https://github.com/LIUJEI/TB/blob/master/魔盒.json"
 },
@@ -151,6 +153,10 @@ url:"https://gh-proxy.org/https://github.com/666tv/v3/blob/main/v3.json"
 {
 name:"PG-JSM",
 url:"https://gh.llkk.cc/https://github.com/alantang1977/pg/blob/main/jsm.json"
+},
+{
+name:"JSM",
+url:"https://hk.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jsm.json"
 },
 {
 name:"alantang1977",
