@@ -7,6 +7,10 @@ urls:[
             "name": "HOME188直链"
         }
         ,
+                         {
+            "url": "https://raw.giteeusercontent.com/rrzt188/home/raw/master/home188.json",
+            "name": "HOME188直链_1"
+        } ,
         {
             "url": "https://gitee.com/rrzt188/home/raw/master/mao210jiajm.json",
             "name": "HOME188"
@@ -59,7 +63,11 @@ url:"http://hb.小虎斑.site:25252/仅供测试"
   {
             "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
             "name": "🚀东篱线路"
-        },	   
+        },	  
+            {
+      "name": "讴歌影视",
+      "url": "http://tv.nxog.top/m/"
+    },     
  {
 name:"天神4K",
 url:"https://gh-proxy.org/https://github.com/yvor-liu/tvbox/blob/a73058cd6374b60afeed3bdf46356b96f0f4de06/%E5%A4%A9%E7%A5%9EIY.txt#L397
@@ -79,8 +87,12 @@ url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/3309fd26321d59f
       "name": "林中小屋影视",
       "url": "https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tattoo/refs/heads/main/OK/okys.json"
     },
+        {
+      "name": "嗷呜影视-正",
+      "url": "http://mytv6688.xyz/aowu/config.webp"
+    },  
  {
-name:"嗷呜线路",
+name:"嗷呜线路2",
 url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/cfd096d739a1506d4a6c75fcfecad1d82e69e0d5/aowu.json#L264
 "
 },
