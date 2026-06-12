@@ -52,10 +52,7 @@ name:"VOX",
 url:"http://rihou.cc:88/demo.php"
 },
 
- {
-name:"小虎斑",
-url:"http://hb.小虎斑.site:25252/仅供测试"
-},
+
    {
             "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
             "name": "🚀真心线路"
@@ -132,7 +129,15 @@ url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/肥�
   {
 name:"安卓羊壳peek专用",
 url:"https://6800.kstore.vip/fish.json"
-}, 
+},
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "💛摸鱼💛"
+        },
+         {
+name:"小虎斑",
+url:"http://hb.小虎斑.site:25252/仅供测试/"
+},
  {
 name:"旺强影视无广2",
 url:"https://gh-proxy.com/https://github.com/xzqcsa/ysc/blob/a7ada42cb433e18df7aca214482904f6f8aaa6fc/xzqzy/fty%E5%B9%B3%E6%9D%BF.json"
@@ -329,11 +334,7 @@ name:"🚀老刘备线路"
  {
    "name": "放牛线路",
    "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
-  },
-        {
-            "url": "http://我不是.摸鱼儿.com",
-            "name": "💛摸鱼💛"
-        }
+  }
 
 ]
 }
