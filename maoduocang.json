@@ -58,7 +58,7 @@ url:"http://rihou.cc:88/demo.php"
             "name": "🚀真心线路"
         }, 
   {
-            "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
             "name": "🚀东篱线路"
         },	  
             {
@@ -91,7 +91,12 @@ url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/3309fd26321d59f
         {
       "name": "嗷呜影视-正",
       "url": "http://mytv6688.xyz/aowu/config.webp"
-    },  
+    }, 
+  {
+      "name":"嗷呜线路3正",
+      "url":"https://gh-proxy.org/https://github.com/rrzt/jiemi/blob/main/tvbox_modified.json"
+},
+
  {
 name:"嗷呜线路2",
 url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/cfd096d739a1506d4a6c75fcfecad1d82e69e0d5/aowu.json#L264
