@@ -76,9 +76,14 @@ url:"https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json"
 },
  {
 name:"天神4K-3",
-url:"https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/blob/main/天神IY.png"
+url:"https://gh-proxy.org/https://github.com/IY-CPU/IY/blob/main/天神IY.png"
 },
-
+ {
+name:"天神4K-本地",
+url:"https://gh-proxy.org/https://github.com/rrzt/jiemi/blob/main/cpu.json"
+},
+  
+  
  {
 name:"李在付",
 url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/3309fd26321d59f5440f97bef763a7881ac90c00/suyuan.json#L226
@@ -139,6 +144,13 @@ url:"https://6800.kstore.vip/fish.json"
             "url": "http://我不是.摸鱼儿.top",
             "name": "💛摸鱼💛"
         },
+          {
+            "url": "xn--v4q818bf34b.cc",
+            "name": "💛摸鱼💛主"
+        },
+  
+
+
          {
 name:"小虎斑",
 url:"http://hb.小虎斑.site:25252/仅供测试/"
