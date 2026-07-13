@@ -95,10 +95,10 @@ url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/3309fd26321d59f
     },
         {
       "name": "嗷呜影视-正",
-      "url": "http://mytv6688.xyz/aowu/config.webp"
+      "url": "http://itv666.cc/aowu/config.webp"
     }, 
   {
-      "name":"嗷呜线路3正",
+      "name":"嗷呜线路本地正",
       "url":"https://gh-proxy.org/https://github.com/rrzt/jiemi/blob/main/tvbox_modified.json"
 },
 
@@ -107,14 +107,18 @@ name:"嗷呜线路2",
 url:"https://gh-proxy.org/https://github.com/lizaifu2026/df/blob/cfd096d739a1506d4a6c75fcfecad1d82e69e0d5/aowu.json#L264
 "
 },
+  {
+name:"VOX",
+url:"http://rihou.cc:88/demo.php"
+},
 
  {
 name:"小米",
-url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/f612c32b66694b78462c4824e99274586692dad2/小米/api.json#L132"
+url:"https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
 },
  {
 name:"潇洒",
-url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/api.json"
+url:"https://9877.kstore.space/ONE/one.json"
 },
  {
 name:"OK",
@@ -130,11 +134,11 @@ url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/南�
 },
  {
 name:"饭太硬",
-url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/饭太硬/api.json"
+url:"http://www.饭太硬.net/tv"
 },
  {
 name:"肥猫",
-url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/肥猫/api.json"
+url:"http://肥猫.net/"
 },
   {
 name:"安卓羊壳peek专用",
@@ -156,9 +160,11 @@ name:"小虎斑",
 url:"http://hb.小虎斑.site:25252/仅供测试/"
 },
  {
-name:"旺强影视无广2",
-url:"https://gh-proxy.com/https://github.com/xzqcsa/ysc/blob/a7ada42cb433e18df7aca214482904f6f8aaa6fc/xzqzy/fty%E5%B9%B3%E6%9D%BF.json"
-},
+   "name": "放牛线路",
+   "url": "http://new.王二小放牛娃.top"
+  }
+,
+
  {
 name:"天神TVBOX",
 url:"https://gh-proxy.org/https://github.com/yvor-liu/tvbox/blob/a73058cd6374b60afeed3bdf46356b96f0f4de06/%E5%A4%A9%E7%A5%9EIY.txt#L397
@@ -250,64 +256,22 @@ url:"https://gh-proxy.com/https://github.com/tianze889/dszb/blob/2eaaf12b2297296
    "name": "南风线路🍊小橙子仓库",
    "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"
   },
-  {
-   "name": "好趣网🍊小橙子仓库",
-   "url": "https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json"
-  },
-  
-    {
-      "name": "🌼秒播接口加QQ群:628383402",
-      "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
-    },
-       
-      
-  
+
   {
  name:"DR接口全",
 url:"https://gh.llkk.cc/https://github.com/jak0099/dr/blob/master/dr2.json"
 },   
- 
-{
-name:"api",
-url:"https://gh-proxy.com/https://github.com/yescopys/box/blob/bec27329667b26044634e4be68df2a3d06f079d3/0000/api.json"
-},
 
- 
-{
-name:"gao0821饭太硬大全",
-url:"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/0821.json"
-},
-{
-name:"JSM合集",
-url:"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jsm.json"
-},
 
 {
 name:"道长线路",
 url:"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
 },
 	
-		{
-			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-			"name": "👑夜猫少儿👑"
-		},
-			
     {
 url:"https://tv.xn--yhqu5zs87a.top",
 name:"🚀莱尼丝线路"
 },	
-	
- 
-{
-url:"https://weixine.net/ysc.json",
-name:"🚀运输车"
-},
-
-{
-url:"https://gh-proxy.com/https://github.com/2hacc/TVBox/blob/main/oktv.json",
-name:"二哈"
-},
-
 
 
 {
@@ -316,39 +280,8 @@ name:"香雅情"
 },
 
 {
-url:"https://tv.xn--yhqu5zs87a.top",
-name:"菜妮丝线路"
-},
-
-
-
-{
-url:"http://cdn.qiaoji8.com/tvbox.json",
-name:"🚀巧记线路"
-},
-
-{
 url:"https://raw.liucn.cc/box/m.json",
 name:"🚀老刘备线路"
-},
-        {
-            "url": "https://9554.kstore.space/feimao",
-            "name": "💛肥猫2💛"
-        },
-   
-        {
-            "url": "http://肥猫.com",
-            "name": "💛肥猫💛"
-        },
-               
-                {
-            "url": "https://gh-proxy.com/https://github.com/wzxxcz/xcz/blob/759b45c28e43473ccc391c29e2473312eeae9151/xcz.json#L2940",
-            "name": "💛采集之王💛"
-        },
- {
-   "name": "放牛线路",
-   "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
-  }
-
+}
 ]
 }
