@@ -105,13 +105,16 @@ url:"https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSp
 },
  {
 name:"潇洒",
-url:"https://9877.kstore.space/ONE/one.json"
+url:"https://9877.kstore.space/one.json"
 },
  {
 name:"潇洒2",
 url:"https://盒子迷.top/潇洒"
 },
-
+ {
+name:"潇洒本地",
+url:"https://gh-proxy.org/https://github.com/rrzt/jiemi/blob/main/xiaosa.json"
+},
  {
 name:"PG",
 url:"https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/PG/api.json"
@@ -166,10 +169,7 @@ url:"https://gh-proxy.com/https://github.com/wzxxcz/xcz/blob/master/wkx.json"
 name:"小橙子专线wzxxcz",
 url:"https://gh-proxy.com/https://github.com/wzxxcz/wzxxcz/blob/maing/xczwzx.json"
 },
- {
-name:"潇洒2",
-url:"https://盒子迷.top/潇洒"
-},
+
 
 {
 name:"LIUJEI-影视",
